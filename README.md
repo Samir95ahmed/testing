@@ -1,3 +1,3 @@
 # testing
 
-Our first github trial
+Our first github trial.
